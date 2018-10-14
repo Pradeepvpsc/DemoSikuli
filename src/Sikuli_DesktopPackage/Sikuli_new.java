@@ -10,6 +10,7 @@ public class Sikuli_new {
 	/**
 	*updated in GIT
 	*Again updated in Eclipse
+	*update no 3 in git 
 	 * @param args
 	 * @throws SikuliException 
 	 */
