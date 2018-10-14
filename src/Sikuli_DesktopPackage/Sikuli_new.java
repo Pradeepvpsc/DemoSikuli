@@ -8,6 +8,7 @@ import org.sikuli.script.SikuliException;
 public class Sikuli_new {
 
 	/**
+	*updated in GIT
 	 * @param args
 	 * @throws SikuliException 
 	 */
