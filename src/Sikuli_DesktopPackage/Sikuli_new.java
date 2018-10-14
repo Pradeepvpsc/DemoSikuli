@@ -12,7 +12,7 @@ public class Sikuli_new {
 	*Again updated in Eclipse
 	 * @param args
 	 * @throws SikuliException 
-	 *git repo
+	 *git repository
 	 */
 	public static void main(String[] args) throws SikuliException {
 		//eclipse update
