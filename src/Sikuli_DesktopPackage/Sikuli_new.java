@@ -14,6 +14,7 @@ public class Sikuli_new {
 	 * @throws SikuliException 
 	 */
 	public static void main(String[] args) throws SikuliException {
+		//eclipse update
 		Screen s=new Screen();
 		
 		Pattern calculator= new Pattern("C:\\Users\\PRADEEP-PC\\Documents\\Selenium Projects\\Images\\Calculator.PNG");
